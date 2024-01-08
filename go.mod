@@ -1,4 +1,4 @@
-module github.com/antonputra/lesson-086
+module github.com/antonputra/configsvc
 
 go 1.17
 
